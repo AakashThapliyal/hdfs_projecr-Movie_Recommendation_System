@@ -1,5 +1,5 @@
 # Movie Recommendation System | Python, TMDb API, Hadoop HDFS | Tkinter GUI
-A modern and intuitive Movie Recommendation App using Python, Tkinter, TMDb API, and HDFS integration for Big Data workflows.
+An interactive movie recommendation app built using Python and Tkinter that suggests similar movies based on TMDb genres. Integrated with HDFS to save recommendations for Big Data processing. Ideal for learning API integration, GUI development, and Hadoop interaction!
 Features
 ✅ Movie recommendation based on similar genres
 ✅ Clean and interactive Tkinter GUI
@@ -14,7 +14,7 @@ How It Works
 
 Installation and Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/movierecommendationapp.git
+git clone [https://github.com/AakashThapliyal/hdfs_projecr-Movie_Recommendation_System.git]
 cd movierecommendationapp
 2. Install Required Packages
 pip install requests
