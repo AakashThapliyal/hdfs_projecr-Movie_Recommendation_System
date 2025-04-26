@@ -1,5 +1,6 @@
 # Movie Recommendation System | Python, TMDb API, Hadoop HDFS | Tkinter GUI
 An interactive movie recommendation app built using Python and Tkinter that suggests similar movies based on TMDb genres. Integrated with HDFS to save recommendations for Big Data processing. Ideal for learning API integration, GUI development, and Hadoop interaction!
+
 Features
 ✅ Movie recommendation based on similar genres
 ✅ Clean and interactive Tkinter GUI
